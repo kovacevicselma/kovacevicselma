@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm Selma Kovačević
+# Hey there! 👋 I'm Selma
 
 I am a passionate coder and a student at the Faculty of Information Technologies in Mostar.
 
