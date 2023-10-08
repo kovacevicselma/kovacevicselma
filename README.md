@@ -1,6 +1,6 @@
 # Hey there! 👋 I'm Selma
 
-I am a passionate coder and a student at the Faculty of Information Technologies in Mostar.
+Welcome to my GitHub profile!
 
 ## About Me
 
