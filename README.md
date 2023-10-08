@@ -1,16 +1,32 @@
-### Hi there 👋
+# Selma Kovačević
 
-<!--
-**kovacevicselma/kovacevicselma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey there! 👋 I'm Selma Kovačević, a passionate coder and a student at the Faculty of Information Technologies in Mostar.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I'm currently a student at the Faculty of Information Technologies in Mostar.
+- 💻 I have a strong passion for coding and technology.
+- 📚 Lifelong Learner: I enjoy learning and exploring new technologies to improve my skills.
+
+## Contact Me
+
+- 📧 Email: selma.kovacevic@edu.fit.ba
+- 👉🏼 LinkedIn: www.linkedin.com/in/selma-kovačević-2b728120a
+
+## Languages and Tools
+
+- C++
+- C#
+- JavaScript
+- HTML
+- CSS
+- Angular
+- TypeScript
+- .NET
+- UML
+- Visual Studio
+- Visual Studio Code
+- Visual Paradigm
+- SQL
+- Access
+
